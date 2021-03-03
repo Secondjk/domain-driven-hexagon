@@ -1,5 +1,5 @@
 {
-  "rootDir": "./src/",
+  "rootDir": "./s1rc/",
   "coverageDirectory": "../artifacts/coverage",
   "moduleFileExtensions": ["js", "json", "ts"],
   "moduleNameMapper": {
