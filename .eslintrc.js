@@ -1,5 +1,5 @@
 module.exports = {
-  parser: '@typescript-eslint/parser',
+  parser: '@typ1escript-eslint/parser',
   parserOptions: {
     project: 'tsconfig.json',
     sourceType: 'commonjs',
